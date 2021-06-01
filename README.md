@@ -1,0 +1,4 @@
+- NodeJS
+- OOP
+- render keyboard
+- on keyboard button click - update screen
